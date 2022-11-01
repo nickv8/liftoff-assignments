@@ -7,12 +7,14 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+A recipe app where a user can search, create and store recipes.
 ### Features
-Include Features here
+The user will be able to search recipes, add / save their own recipes including descriptions, ingredients and cooking instructions. We want user to be able to utilize Google Login API to login into our website.
 ### Technologies
-Include Technologies here
+We will be using Java, MySQL, Angular, Spring Boot, and VS Code.
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will learn to incorporate API's into a website.  I will also learn how to work on a Spring Boot project within VS Code using Java, MySQL and Angular.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/8E6LJtPt/recipe
+https://miro.com/app/board/uXjVPKA2mXI=/#tpicker-content
+

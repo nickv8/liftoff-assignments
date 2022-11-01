@@ -7,7 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-A recipe app where a user can search, create and store recipes.
+A recipe app where a user can search, create and store recipes
 ### Features
 The user will be able to search recipes, add / save their own recipes including descriptions, ingredients and cooking instructions. We want user to be able to utilize Google Login API to login into our website.
 ### Technologies

@@ -11,9 +11,9 @@ A recipe app where a user can search, create and store recipes
 ### Features
 The user will be able to search recipes, add / save their own recipes including descriptions, ingredients and cooking instructions. We want user to be able to utilize Google Login API to login into our website.
 ### Technologies
-We will be using Java, MySQL, Angular, Spring Boot, and VS Code.
+We will be using React.js, Express.js and SQL VS Code.
 ### What I'll Have to Learn
-I will learn to incorporate API's into a website.  I will also learn how to work on a Spring Boot project within VS Code using Java, MySQL and Angular.
+I will learn to incorporate API's into a website.  I will learn REACT.js and Express.js.
 ### Project Tracker
 https://trello.com/b/8E6LJtPt/recipe
 https://miro.com/app/board/uXjVPKA2mXI=/#tpicker-content
